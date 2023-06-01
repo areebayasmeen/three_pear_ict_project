@@ -1,1 +1,2 @@
-# three_pear_ict_project
+# ICT_project_of_threepeat
+This is  project for ICT lab of threepeats
